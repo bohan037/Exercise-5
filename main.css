@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h1, h2, h3, h4, h5, h6, p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+    color: #b58d7a;
+}
+h1 {
+    font-size: 48px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    color: #b58d7a;
+}
+img {
+    width: 400px;
+    display: block;
+    margin: 0px auto;
+}
+main {
+    width: 900px;
+    margin: 8px auto;
+    border: 1px solid #b58d7a;
+}
+
+header {
+    border-bottom: 1px solid #b58d7a;
+    padding: 12px;
+}
+footer {
+    border-top: 1px solid #b58d7a;
+    padding: 12px;
+}
+.container-small {
+    width: 360px;
+    margin: 0px auto;
+    text-align: left;
+}
+.container-small li {
+    margin-bottom: 8px;
+}
